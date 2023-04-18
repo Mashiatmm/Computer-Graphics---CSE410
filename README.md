@@ -16,7 +16,7 @@ Implementation of Raster based graphics pipeline.
 
 A demo of the input can be found in `input_output` folder.
 
-The output is given below:
+The output is given below <br/>
 ![alt text](https://github.com/Mashiatmm/Computer-Graphics---CSE410/blob/master/Offline2/input_output/out.bmp)
 
 

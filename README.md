@@ -7,6 +7,10 @@ The project implements the following :
 - Sphere to/ From cube : implementation of this with the controllable camera can be found in the `first_2.exe`
 - Wheel : implementation of this can be found in the `third.exe`
 
+# `Online`:
+Creates a car with 4 wheels and an antenna. can be found in the `/Online/bin/Debug/Online1.exe` file.
+![alt text](https://github.com/Mashiatmm/Computer-Graphics---CSE410/blob/master/Online/Capture.JPG)
+
 # `Offline2`
 Implementation of Raster based graphics pipeline.
 - `Stage 1:` modeling transformation

@@ -14,8 +14,11 @@ Implementation of Raster based graphics pipeline.
 - `Stage 3:` projection transformation
 - `Stage 4:` clipping & scan conversion using Z-buffer algorithm
 
-A demo of the input can be found in 
-The output is given below
+A demo of the input can be found in `input_output` folder.
+
+The output is given below:
+![alt text](https://github.com/Mashiatmm/Computer-Graphics---CSE410/blob/master/Offline2/input_output/out.bmp)
+
 
 
 
